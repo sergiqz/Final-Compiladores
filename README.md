@@ -5,24 +5,24 @@ Este proyecto es un compilador que traduce programas escritos en un lenguaje sim
 
 ## Código
 prueba.wjs
-El codigo retorna  la divicion entre 2 y multiplicacion por 2 el numero ingresado, y una secuencia decreciente del numero ingresado + 6 en caso que el numero ingresado sea mayor que 6 
+El codigo retorna la división entre 2 y multiplicacion por 2 el numero ingresado, y una secuencia decreciente del numero ingresado + 6 en caso que el numero ingresado sea mayor que 6
 
 ## Ejecucion
 Para poder ejecutar se necesita python con una version mayor a la 3.0 y Mars
 
 **Paso 1:**
-py main.py prueba.wjs
+Ejecutar por consola py main.py prueba.wjs
 
 **Paso 2:**
-remplazar los ' por un vacio en el archivo datos.js
+Remplazar los ' por un vacio en el archivo datos.js
 
 **Paso 3:**
-ejecutar index.html
+Ejecutar index.html
 
 **Paso 4:**
 Abrir el Mars4_5 y ejecutar el archivo prueba.ws.s
 
-## Video
+## Vídeo
 https://www.youtube.com/watch?v=GYZbafYaFIQ en el video se muestra como se ejecuta el proyecto 
 
 
