@@ -4,33 +4,4 @@ Trabajo Final Compiladores
 Este proyecto es un compilador que traduce programas escritos en un lenguaje similar a c++ y la invocación de un codigo en Mars.
 
 ## Código
-int por2(int a){
-	int b=a*2;
-	return b;
-}
-int entre2(int a){
-	int b=a/2;
-	return b;
-}
-void main()
-{
-	int a=6;
-	if(a>5){
-		a=a+5;
-	}
-    a=a+1;
-    print(a);
-    print(" ");
-   	a=call por2(a);
-   	print(a);
-   	print(" ");
-   	a=call entre2(a);
-   	print(a);
-   	print(" ");
-
-   	while(a>0){
-   		print(a);
-   		a=a-1;
-   		print(" ");
-   	}
-}
+El codigo retorna  la divicion entre 2 y multiplicacion por 2 el numero ingresado, y una secuencia decreciente del numero ingresado + 6 en caso que el numero ingresado sea mayor que 6 
