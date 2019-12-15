@@ -8,7 +8,7 @@ prueba.wjs
 El codigo retorna  la divicion entre 2 y multiplicacion por 2 el numero ingresado, y una secuencia decreciente del numero ingresado + 6 en caso que el numero ingresado sea mayor que 6 
 
 ## Ejecucion
-Para poder ejecutar
+Para poder ejecutar se necesita python con una version mayor a la 3.0 y Mars
 
 **Paso 1:**
 py main.py prueba.wjs
@@ -21,6 +21,16 @@ ejecutar index.html
 
 **Paso 4:**
 Abrir el Mars4_5 y ejecutar el archivo prueba.ws.s
+
+## Video
+https://www.youtube.com/watch?v=GYZbafYaFIQ en el video se muestra como se ejecuta el proyecto 
+
+
+
+
+
+
+
 
 
 
